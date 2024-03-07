@@ -1,4 +1,4 @@
-﻿# fp = open("test.txt", "w")
+﻿# fp = open("mymodule.txt", "w")
 # fp.write("# hello\n*****\n" * 5)
 fp1 = open("test.txt", "r")
 # content = fp1.read()    # 似乎只能读文本文档     read是一字节一字节读，效率很低
